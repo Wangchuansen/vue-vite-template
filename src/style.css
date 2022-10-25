@@ -68,9 +68,11 @@ button:focus-visible {
 .card {
   padding: 2em;
 }
-
+.el-header {
+   --el-header-padding: 0px !important;
+}
 #app {
-  max-width: 1280px;
+  max-width: 1920px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;

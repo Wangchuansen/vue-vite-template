@@ -1,5 +1,5 @@
 <template>
-<div>
+<div id="test1">
   test13242332asad
 </div>
 </template>
@@ -11,5 +11,7 @@ export default {
 </script>
 
 <style scoped>
-
+#test1{
+  background: #646cff;
+}
 </style>

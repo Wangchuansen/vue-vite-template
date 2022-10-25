@@ -15,7 +15,7 @@
               text-align: center;
             "
           >
-            后台管理
+            Template
           </div>
           <el-dropdown>
             <div style="display: flex; align-items: center; margin-right: 25px">
