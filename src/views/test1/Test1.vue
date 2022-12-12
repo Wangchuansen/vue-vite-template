@@ -19,7 +19,7 @@
       >
         <h2 v-html="item.caseId"></h2>
         <ul>
-          <li>{{ item.title }}</li>
+          <li v-html="item.title"></li>
           <li>丨</li>
 <!--          <li>{{ item.opportunityTypeName }}</li>-->
 <!--          <li>丨</li>-->
